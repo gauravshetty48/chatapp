@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space1">3dp</dimen>
+    <dimen name="space2">8dp</dimen>
+    <dimen name="space3">12dp</dimen>
+    <dimen name="space4">18dp</dimen>
+    <dimen name="space5">5dp</dimen>
+    <dimen name="leftright">30dp</dimen>
+    <dimen name="h1">22sp</dimen>
+    <dimen name="h2">20sp</dimen>
+    <dimen name="h3">18sp</dimen>
+    <dimen name="h4">16sp</dimen>
+    <dimen name="h5">14sp</dimen>
+    <dimen name="h6">12sp</dimen>
+    <dimen name="h7">11sp</dimen>
+    <dimen name="car_big">200dp</dimen>
+    <dimen name="car_big_h">80dp</dimen>
+    <dimen name="drawer_header_h">250dp</dimen>
+    <dimen name="details_h">60dp</dimen>
+</resources>

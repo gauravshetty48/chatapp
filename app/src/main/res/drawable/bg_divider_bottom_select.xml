@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/space4" android:right="@dimen/space4">
+        <shape>
+            <solid android:color="@color/divider"/>
+            <padding android:bottom="1dp"/>
+        </shape>
+    </item>
+    <item android:left="@dimen/space4" android:right="@dimen/space4">
+        <shape>
+            <solid android:color="@color/whiteGrey"/>
+            <padding android:left="@dimen/leftright"/>
+        </shape>
+    </item>
+</layer-list>

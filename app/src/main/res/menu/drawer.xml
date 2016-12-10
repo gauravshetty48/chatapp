@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:checked="true"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_item_1"
+        android:checked="true"
+        android:title="Inspiration" />
+    <!--<item-->
+        <!--android:id="@+id/navigation_item_2"-->
+        <!--android:title="Deals" />-->
+    <item
+        android:id="@+id/navigation_item_3"
+        android:title="Appoinment History" />
+    <!--<item-->
+        <!--android:id="@+id/navigation_item_4"-->
+        <!--android:title="My Profile" />-->
+    <!--<item-->
+        <!--android:id="@+id/navigation_item_5"-->
+        <!--android:title="Pamper Points" />-->
+    <!--<item-->
+        <!--android:id="@+id/navigation_item_6"-->
+        <!--android:title="Feedback" />-->
+    <item
+        android:id="@+id/navigation_item_7"
+        android:title="Rate this app" />
+    <item
+        android:id="@+id/login"
+        android:checked="true"
+        android:title="Login" />
+
+    <group>
+        <item
+            android:id="@+id/navigation_item_8"
+            android:title="Logout" />
+    </group>
+</menu>

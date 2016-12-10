@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_item_2"
+        android:title="Favourites"></item>
+    <item android:title="Deals"></item>
+    <item android:title="Appoinment History"></item>
+    <item android:title="My Profile"></item>
+    <item android:title="Pamper Points"></item>
+    <item android:title="Feedback"></item>
+    <item android:title="Rate this app"></item>
+
+    <group android:id="@+id/group">
+
+        <item android:title="Logout"></item>
+    </group>
+
+
+</menu>
