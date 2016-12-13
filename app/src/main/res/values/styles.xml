@@ -13,6 +13,9 @@
         <item name="colorButtonNormal">@color/textHint</item>
     </style>
 
+    <style name="AppTheme.AppBarOverlay" parent="AppTheme">
+
+    </style>
 
     <style name="Progress" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="colorPrimary">@color/colorPrimary</item>
